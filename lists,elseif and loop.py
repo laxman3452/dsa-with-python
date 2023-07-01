@@ -54,3 +54,5 @@ print(sum)
 
 # break stops all the remaining iteration
 # continue makes the ongoing iteration finish and move to the next iteration.
+
+# this is just a blueprint.
